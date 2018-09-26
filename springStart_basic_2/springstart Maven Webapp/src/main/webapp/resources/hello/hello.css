@@ -1,0 +1,9 @@
+.mydiv{
+	display:flex;
+	flex-direction:column;
+	width:400px;
+	height:600px;
+}
+.mybutton{
+	width:100px;
+}
