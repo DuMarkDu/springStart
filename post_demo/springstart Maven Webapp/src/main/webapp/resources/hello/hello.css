@@ -1,0 +1,10 @@
+.mydiv{
+	display:flex;
+	flex-direction:column;
+	width:400px;
+	height:300px;
+	background: grey;
+}
+.mybutton{
+	width:100px;
+}
